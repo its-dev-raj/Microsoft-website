@@ -1,8 +1,7 @@
-import img1 from "/photos/surface.jpg"
+import img1 from "/photos/surface.jpg";
 import img2 from "/photos/365.jpg";
 import img3 from "/photos/11.jpg";
 import img4 from "/photos/business.jpg";
-
 
 export const cardDataforB = [
   {
