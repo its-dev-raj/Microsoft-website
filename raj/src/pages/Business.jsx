@@ -1,5 +1,5 @@
 import React from "react";
-import CardforB from "../components/cardforB";
+import CardforB from "../components/CardforB";
 import { cardDataforB } from "../data/cardDataforB.js";
 
 const Business = () => {
