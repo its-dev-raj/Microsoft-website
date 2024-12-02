@@ -3,7 +3,7 @@ import React from "react";
 import Navbar from "./pages/Navbar";
 
 import Main from "./pages/Main";
-import Slid from "./pages/slid";
+import Slid from "./pages/Slid";
 import Maximise from "./pages/Maximise";
 import Heading from "./pages/Heading";
 import Business from "./pages/Business";
@@ -19,8 +19,7 @@ const App = () => {
       <Heading />
       <Business />
       <Follow />
-      <Bottom/>
-
+      <Bottom />
     </div>
   );
 };
